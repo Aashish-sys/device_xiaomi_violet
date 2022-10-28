@@ -21,7 +21,7 @@ TARGET_LAUNCHER := lawnchair
 export SUPERIOR_OFFICIAL=true
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := superior_violet
+PRODUCT_NAME := evolutionx_violet
 PRODUCT_DEVICE := violet
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi Note 7 Pro
